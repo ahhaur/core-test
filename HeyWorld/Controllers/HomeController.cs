@@ -15,6 +15,11 @@ namespace HeyWorld.Controllers
             return View();
         }
 
+        public IActionResult Happy()
+        {
+            return View();
+        }
+
         public IActionResult About()
         {
             ViewData["Message"] = "Your application description page.";
