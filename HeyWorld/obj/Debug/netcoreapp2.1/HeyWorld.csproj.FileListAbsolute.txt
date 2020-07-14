@@ -1,0 +1,5 @@
+C:\Users\shaanghaur.lim\source\repos\HeyWorld\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\shaanghaur.lim\source\repos\HeyWorld\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\shaanghaur.lim\source\repos\HeyWorld\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\shaanghaur.lim\source\repos\HeyWorld\obj\Debug\netcoreapp2.1\HeyWorld.AssemblyInfoInputs.cache
+C:\Users\shaanghaur.lim\source\repos\HeyWorld\obj\Debug\netcoreapp2.1\HeyWorld.AssemblyInfo.cs
